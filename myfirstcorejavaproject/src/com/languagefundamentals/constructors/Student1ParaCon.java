@@ -7,13 +7,7 @@ public class Student1ParaCon {
 	String sid;
 	String sname;
 	int sage;
-	
-	
-//	No-arg Constructors
-	Student1ParaCon() {
-		System.out.println("Student No-arg Constructor Called!!");
-	}
-	
+		
 //	Parameterized Constructors
 	Student1ParaCon(String sid, String sname,int sage) {
 		System.out.println("Student Parameterized Constructor Called!!");
