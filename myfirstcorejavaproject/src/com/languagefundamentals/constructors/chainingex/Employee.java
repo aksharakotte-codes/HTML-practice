@@ -21,8 +21,8 @@ public class Employee {
 		System.out.println("Main Method started from Employee!!");
 
 	}
-
 }
+
 //child class
 class Manager extends Employee {
 	
